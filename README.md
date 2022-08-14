@@ -8,6 +8,11 @@ The number of the poles desired could be stated in the "pole" variable of the MA
 
 <p align="center">
   <img src="exampleimages/2pole_setup.PNG">
-  <p>The Magnetic field density vectors created by the coils in 2-pole setup</p>
+  <p align="center">The Magnetic field density vectors created by the coils in 2-pole setup</p>
+</p>
+
+<p align="center">
+  <img src="exampleimages/4pole_setup.PNG">
+  <p align="center">The Magnetic field density vectors created by the coils in 4-pole setup at different times</p>
 </p>
 
