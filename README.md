@@ -4,7 +4,10 @@ This project is written as a final project of the course "EE304 Energy Conversio
 
 The number of the poles desired could be stated in the "pole" variable of the MATLAB script. The resultant animation not only shows the generated magnetic field intensity vectors created by the coils but also the corresponding current directions.
 
-##Examples
+## Examples
 
-![Image1](exampleimages/2pole_setup.PNG)
+<p align="center">
+  <img src="exampleimages/2pole_setup.PNG">
+  The Magnetic field density vectors created by the coils in 2-pole setup
+</p>
 
